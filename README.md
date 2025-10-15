@@ -1,5 +1,14 @@
 # CIS 5660 HW04 Procedural Buildings
 
+## Concept archetypes
+
+*Minecraft Building*
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/faab3b1e-fb23-484b-b961-399332588245" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/1d081c15-f294-44e1-abd5-f431f9d7a672" />
+
+
+
 ## Project Overview
 In this homework you’ll gain more experience with tool creation and loops. The core of this homework will be following a Procedural House tutorial to create a multi-floor building generator. The tutorial is linked here: 
 https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini 
