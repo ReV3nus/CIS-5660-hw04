@@ -2,10 +2,13 @@
 
 ## Concept archetypes
 
-*Minecraft Building*
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/faab3b1e-fb23-484b-b961-399332588245" />
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/1d081c15-f294-44e1-abd5-f431f9d7a672" />
+
+|<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/faab3b1e-fb23-484b-b961-399332588245" /> <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/1d081c15-f294-44e1-abd5-f431f9d7a672" /> | <img width="1699" height="2358" alt="image" src="https://github.com/user-attachments/assets/3ec19c16-5026-4d64-8f5f-29e221846f8b" /> |
+|---|---|
+| *Minecraft Building 1*  | *Temple Tower*|
+
+
 
 
 
